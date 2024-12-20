@@ -13,7 +13,7 @@
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently learning  MERN Stack Developement
+  🧑‍💼 I’m currently learning MERN Stack Developement
   <br>
 </p>
 
