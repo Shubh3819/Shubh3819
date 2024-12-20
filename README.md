@@ -1,8 +1,24 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Subhrangshu!;&align=center&size=30">
-<h4 align="left">Hi, I'm Subhrangshu Chatterjee, Web Developer/Coder 🥷, Learner 👨‍💻 & gamer 🦸‍♂️ from India 🇮🇳
-🎓 Pursuing my bachelors degree from KIIT.
-💻 I love to learn new technologies and frameworks.
-🧑‍💼 I’m currently learning  MERN Stack Developement</h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Subhrangshu!;&align=center&size=30">
+  </a>
+</h1>
+
+<br>
+<p align="center">
+  Hi, I'm Subhrangshu Chatterjee, Web Developer/Coder 🥷, Learner 👨‍💻 & gamer 🦸‍♂️ from India 🇮🇳
+  <br>
+  <br>
+  🎓 Pursuing my bachelors degree from <a href="https://kiit.ac.in/"> KIIT.</a>
+  <br>
+  💻 I love to learn new technologies and frameworks.
+  <br>
+  🧑‍💼 I’m currently learning  MERN Stack Developement
+  <br>
+</p>
+
+
+</h2>
 </h4>
 ###
 
