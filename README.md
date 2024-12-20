@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Subhrangshu!Chatterjee!;&center=true&size=30">
 <h2 align="left">Hi 👋! My name is SUBHRANGSHU CHATTERJEE and I'm a MERN Stack Developer, from Delhi</h2>
 
 ###
@@ -48,7 +49,7 @@
 <br clear="both">
 
 ###
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Subhrangshu+Chatterjee!;&center=true&size=30">
+ 
 <p align="left">Hello World!!</p>
 
 ###
