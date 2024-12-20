@@ -48,7 +48,7 @@
 <br clear="both">
 
 ###
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
 <p align="left">Hello World!!</p>
 
 ###
