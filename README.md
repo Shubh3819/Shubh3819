@@ -1,10 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Subhrangshu;Chatterjee!;&center=true&size=30">
-<h2 align="left">Hi, I'm Subhrangshu Chatterjee, Web Developer/Coder 🥷, Learner 👨‍💻 & gamer 🦸‍♂️ from India 🇮🇳
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Subhrangshu!;&align=center&size=30">
+<h4 align="left">Hi, I'm Subhrangshu Chatterjee, Web Developer/Coder 🥷, Learner 👨‍💻 & gamer 🦸‍♂️ from India 🇮🇳
 🎓 Pursuing my bachelors degree from KIIT.
 💻 I love to learn new technologies and frameworks.
 🧑‍💼 I’m currently learning  MERN Stack Developement</h2>
-
+</h4>
 ###
 
 <div align="center">
