@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Subhrangshu Chatterjee, Web Developer/Coder 🥷, Learner 👨‍💻 & gamer 🦸‍♂️ from India 🇮🇳
+  Hi, I'm Subhrangshu Chatterjee, Web Developer/Coder 🥷, Learner 👨‍💻 & gamer 🦸‍♂️ from India
   <br>
   <br>
   🎓 Pursuing my bachelors degree from <a href="https://kiit.ac.in/"> KIIT.</a>
