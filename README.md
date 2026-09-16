@@ -206,22 +206,35 @@ my skills through hands-on development.
 
 <div align="center">
 
+<table>
+<tr>
+<td>
 <a href="https://www.linkedin.com/in/subhrangshu-chatterjee-16ab10245/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</td>
 
+<td>
 <a href="mailto:chatterjee3008@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+</td>
 
-<a href="https://github.com/Shubh3819">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<td>
+<a href="https://github.com/Shubh3819" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
 
+<td>
 <a href="https://x.com/Subhrangsh85185" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+</td>
+</tr>
+</table>
 
+</div>
 
 <br><br>
 
