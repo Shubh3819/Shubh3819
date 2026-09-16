@@ -192,7 +192,6 @@ my skills through hands-on development.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubh3819&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh3819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
