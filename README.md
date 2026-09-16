@@ -4,19 +4,25 @@
 
 ### `Software Engineer` • `AI/ML Engineer` • `Full-Stack Developer`
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications+%F0%9F%A4%96;Full-Stack+%2B+AI%2FML+%2B+Problem+Solving;Turning+ideas+into+working+systems+%E2%9A%A1;Always+learning.+Always+building.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications+%F0%9F%A4%96;Turning+ideas+into+working+systems+%E2%9A%A1;AI%2FML+%2B+Full-Stack+%2B+Problem+Solving;Always+learning.+Always+building.+%F0%9F%9A%80" />
 
 <br>
 
 <a href="https://github.com/Shubh3819">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/subhrangshu-chatterjee-16ab10245/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:chatterjee3008@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Shubh3819&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -26,99 +32,169 @@
 
 > ### `Engineering ideas into intelligent software.`
 
+I'm a Computer Science Engineering student and software developer interested in the
+intersection of **Artificial Intelligence, Machine Learning, Full-Stack Development
+and Software Engineering.**
+
+I enjoy turning ideas into **real, usable applications** and continuously improving
+my skills through hands-on development.
+
 🎓 Computer Science Engineering @ **KIIT University**
 
-🤖 Interested in **AI/ML, Deep Learning & Generative AI**
+🤖 **AI/ML • Deep Learning • Generative AI**
 
-🌐 Building **Full-Stack Web Applications & Backend Systems**
+🌐 **Full-Stack & Backend Development**
 
-🧠 Practicing **DSA, Problem Solving & System Design**
+🧠 **DSA • Problem Solving • System Design**
 
-☁️ Exploring **Cloud, Deployment & Scalable Architecture**
-
-⚡ I learn by **building, breaking, debugging and improving.**
+☁️ **Cloud • Deployment • Scalable Systems**
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Arsenal
+
+<table>
+<tr>
+
+<td valign="top" width="33%">
 
 ### 💻 Languages
 
-`Python` `Java` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+</p>
+
+`Python`
+`Java`
+`JavaScript`
+`TypeScript`
+`SQL`
+`HTML`
+`CSS`
+
+</td>
+
+<td valign="top" width="33%">
 
 ### 🌐 Full Stack
 
-`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `FastAPI`
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi" />
+</p>
 
-`REST APIs` `JWT` `Socket.io`
+`React`
+`Vite`
+`Tailwind CSS`
+`Node.js`
+`Express.js`
+`FastAPI`
+`REST APIs`
+`JWT`
+`Socket.io`
+
+</td>
+
+<td valign="top" width="33%">
 
 ### 🤖 AI / ML
 
-`TensorFlow` `Keras` `PyTorch` `Scikit-learn`
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-`Hugging Face` `Pandas` `NumPy` `Librosa`
+`TensorFlow`
+`Keras`
+`PyTorch`
+`Scikit-learn`
+`Hugging Face`
+`Pandas`
+`NumPy`
+`Librosa`
+`OpenAI`
+`Gemini`
+`Generative AI`
 
-`OpenAI` `Gemini` `Generative AI`
+</td>
 
-### 🗄️ Databases & Tools
+</tr>
 
-`MongoDB` `MySQL` `PostgreSQL` `Firebase`
+<tr>
 
-`Git` `GitHub` `Docker` `Postman` `VS Code` `Linux`
+<td valign="top">
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+`MongoDB`
+`MySQL`
+`PostgreSQL`
+`Firebase`
+
+</td>
+
+<td valign="top">
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
+
+`Git`
+`GitHub`
+`Docker`
+`Postman`
+`VS Code`
+`Linux`
+
+</td>
+
+<td valign="top">
+
+### 🧠 Core CS
+
+`Data Structures & Algorithms`
+
+`OOP`
+`DBMS`
+`Operating Systems`
+`Computer Networks`
+
+`System Design`
+`Machine Learning`
+`Deep Learning`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧠 Currently Exploring
+## 💭 Developer Philosophy
 
-```text
-🧮 Data Structures & Algorithms
-🏗️ System Design & Scalable Architecture
-🤖 Advanced Machine Learning & Deep Learning
-✨ Generative AI
-🌐 Backend & Distributed Systems
-☁️ Cloud & Deployment
-🗄️ Database Design
-```
+<div align="center">
 
-### `LEARN → BUILD → BREAK → DEBUG → IMPROVE → DEPLOY 🚀`
+### `Don't just learn technology. Build with it.`
+
+<br>
+
+**Learn → Build → Break → Debug → Improve → Repeat 🚀**
+
+</div>
 
 ---
 
-## 🧩 Problem Solving
-
-I'm actively strengthening my algorithmic thinking through **LeetCode & NeetCode 150**.
-
-`Arrays & Hashing` • `Two Pointers` • `Sliding Window`
-
-`Stack` • `Binary Search` • `Linked List`
-
-`Trees` • `Graphs` • `Dynamic Programming`
-
-> **Turning problems into patterns.**
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubh3819&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh3819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh3819&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shubh3819/Shubh3819/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -142,8 +218,6 @@ I'm actively strengthening my algorithmic thinking through **LeetCode & NeetCode
 
 <br><br>
 
-### ⭐ `Thanks for stopping by!`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+### ⭐ Thanks for stopping by!
 
 </div>
