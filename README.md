@@ -196,6 +196,10 @@ my skills through hands-on development.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh3819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh3819&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
