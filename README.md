@@ -192,8 +192,6 @@ my skills through hands-on development.
 
 <div align="center">
 
-
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh3819&theme=tokyonight&hide_border=true" />
