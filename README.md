@@ -34,7 +34,7 @@
 
 I'm a Computer Science Engineering student and software developer interested in the
 intersection of **Artificial Intelligence, Machine Learning, Full-Stack Development
-and Software Engineering.**
+and Software Engineering**
 
 I enjoy turning ideas into **real, usable applications** and continuously improving
 my skills through hands-on development.
